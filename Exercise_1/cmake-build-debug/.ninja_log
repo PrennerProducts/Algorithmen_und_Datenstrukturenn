@@ -1,0 +1,11 @@
+# ninja log v5
+3	274	6754683022180973	CMakeFiles/Exercise_1.dir/Algorithms.cpp.obj	1d8e20c9f127c9f9
+3	292	6754630577741868	CMakeFiles/Exercise_1.dir/Ware.cpp.obj	c3eff9d9b8321911
+3	374	6754684349955004	CMakeFiles/Exercise_1.dir/main.cpp.obj	ea2c8777775b41be
+2	277	6754679272479872	CMakeFiles/Exercise_1.dir/Sortiment.cpp.obj	71ff46207b75c119
+375	484	6754684351056001	Exercise_1.exe	a7ca46fdb1fdc701
+7	332	6754699860129097	CMakeFiles/Exercise_1.dir/Ware.cpp.obj	49363a71cdf8f82d
+13	336	6754699860169134	CMakeFiles/Exercise_1.dir/Sortiment.cpp.obj	c06a62f59d974b1a
+10	366	6754699860469404	CMakeFiles/Exercise_1.dir/Algorithms.cpp.obj	e9fd91969a0d1fd1
+3	456	6754699861340194	CMakeFiles/Exercise_1.dir/main.cpp.obj	91d9ad22cbdf43e4
+457	553	6754699862321083	Exercise_1.exe	a7ca46fdb1fdc701
