@@ -1,0 +1,9 @@
+# ninja log v5
+11	301	6765842559389062	CMakeFiles/Exercise_Sheet_3_2.dir/edge.cpp.obj	bee44e1889426fa3
+0	596	6765842562371778	CMakeFiles/Exercise_Sheet_3_2.dir/main.cpp.obj	9b67956e4c6e4f
+772	948	6765842565874955	Exercise_Sheet_3_2.exe	1346873e8b112d33
+14	771	6765842564123363	CMakeFiles/Exercise_Sheet_3_2.dir/graph.cpp.obj	da279f1f168326c0
+1	225	6765860484406550	build.ninja	7d7927b14323ad2a
+4	658	6765860491731535	CMakeFiles/Exercise_Sheet_3_2.dir/extendedGraph2.cpp.obj	e76c4c699cfa50f8
+3	477	6765860585261181	CMakeFiles/Exercise_Sheet_3_2.dir/main.cpp.obj	9b67956e4c6e4f
+478	625	6765860586702490	Exercise_Sheet_3_2.exe	569b497934fa521c
