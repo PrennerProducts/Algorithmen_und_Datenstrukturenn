@@ -1,0 +1,21 @@
+# ninja log v5
+3	338	6759690280960854	CMakeFiles/Exercise_2_2.dir/main.cpp.obj	26b7e7637a714d33
+2	283	6759690754810509	CMakeFiles/Exercise_2_2.dir/doublyLinkedList.cpp.obj	63c1ee9572d6d9c1
+11	364	6759684126516107	CMakeFiles/Exercise_2_2.dir/listItem.cpp.obj	32ebd459b3fa392a
+16	333	6759664878893881	CMakeFiles/Exercise_2_2.dir/singlyLinkedList.cpp.obj	1b916d65131b3bdb
+283	382	6759690755781392	Exercise_2_2.exe	c21dc899f9801055
+1	183	6762049485976115	build.ninja	ea89fd888f42c6f3
+5	365	6759686512191499	CMakeFiles/Exercise_2_2.dir/extendedListItem.cpp.obj	ea708be2c0cd3234
+12	347	6762502453355016	CMakeFiles/Exercise_2_2.dir/extendedListItem.cpp.obj	ea708be2c0cd3234
+3	292	6762502776678494	CMakeFiles/Exercise_2_2.dir/main.cpp.obj	26b7e7637a714d33
+16	305	6762502776828632	CMakeFiles/Exercise_2_2.dir/doublyLinkedList.cpp.obj	63c1ee9572d6d9c1
+305	413	6762502777879584	Exercise_2_2.exe	c21dc899f9801055
+3	297	6762503155950885	CMakeFiles/Exercise_2_2.dir/main.cpp.obj	26b7e7637a714d33
+297	397	6762503156961801	Exercise_2_2.exe	c21dc899f9801055
+3	270	6762503676739999	CMakeFiles/Exercise_2_2.dir/main.cpp.obj	26b7e7637a714d33
+270	377	6762503677790959	Exercise_2_2.exe	c21dc899f9801055
+3	339	6762503823336576	CMakeFiles/Exercise_2_2.dir/main.cpp.obj	26b7e7637a714d33
+340	464	6762503824577706	Exercise_2_2.exe	c21dc899f9801055
+4	336	6762504328203782	CMakeFiles/Exercise_2_2.dir/main.cpp.obj	26b7e7637a714d33
+17	353	6762504328353934	CMakeFiles/Exercise_2_2.dir/doublyLinkedList.cpp.obj	63c1ee9572d6d9c1
+354	483	6762504329675124	Exercise_2_2.exe	c21dc899f9801055

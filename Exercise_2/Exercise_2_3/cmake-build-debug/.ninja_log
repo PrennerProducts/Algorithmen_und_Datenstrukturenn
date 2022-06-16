@@ -1,0 +1,8 @@
+# ninja log v5
+3	284	6762487890953090	CMakeFiles/LinkedList.dir/main.cpp.obj	2e5a2ba866d42072
+5	308	6762487891223335	CMakeFiles/LinkedList.dir/extendedAvlTree.cpp.obj	bdfe2e3cf99fdebd
+309	409	6762487892204227	LinkedList.exe	34f124479ba5110b
+3	202	6762492446353857	build.ninja	6ed90d7ff3417dfd
+12	324	6762492500444830	CMakeFiles/LinkedList.dir/main.cpp.obj	d029cb989fd73a4e
+2	356	6762492500775136	CMakeFiles/LinkedList.dir/extendedAvlTree.cpp.obj	a28e098f1724868d
+356	457	6762492501766031	LinkedList.exe	34f124479ba5110b
