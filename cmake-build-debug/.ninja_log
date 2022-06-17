@@ -1,0 +1,13 @@
+# ninja log v5
+7	338	6754704014082068	CMakeFiles/GitHub_Algorithmen_Datenstrukturen.dir/Exercise_1/Sortiment.cpp.obj	d9a174945b3256d
+5	350	6754704014182162	CMakeFiles/GitHub_Algorithmen_Datenstrukturen.dir/Exercise_1/Ware.cpp.obj	146dacdacd693631
+27	122	6758783838763803	CMakeFiles/GitHub_Algorithmen_Datenstrukturen.dir/Exercise_1/mergeSort_commented.cpp.obj	853168d798c6eb2c
+0	353	6754704014242217	CMakeFiles/GitHub_Algorithmen_Datenstrukturen.dir/Exercise_1/Algorithms.cpp.obj	438543b9e4781095
+3	463	6754704015313180	CMakeFiles/GitHub_Algorithmen_Datenstrukturen.dir/Exercise_1/main.cpp.obj	3a33fc706d539a42
+80	191	6755209240245750	GitHub_Algorithmen_Datenstrukturen.exe	6c0f36c187d1695b
+21	115	6758783838674105	CMakeFiles/GitHub_Algorithmen_Datenstrukturen.dir/Exercise_1/bubbleSort_commented.cpp.obj	dfd68481b0404e44
+3	120	6758783838753790	CMakeFiles/GitHub_Algorithmen_Datenstrukturen.dir/Exercise_1/insertionSort_commented.cpp.obj	320747a2bc0b2740
+15	285	6758785362330138	CMakeFiles/GitHub_Algorithmen_Datenstrukturen.dir/Exercise_2/HelperFunktions.cpp.obj	33c390a6a84798e4
+13	314	6758804700570861	CMakeFiles/GitHub_Algorithmen_Datenstrukturen.dir/Exercise_2/Exercise_2_1/binaryTreeNode.cpp.obj	cbfeffcbd9b95d27
+3	315	6758804700580873	CMakeFiles/GitHub_Algorithmen_Datenstrukturen.dir/Exercise_2/Exercise_2_1/main.cpp.obj	b822e3c8c7bcaae
+16	344	6758804700891151	CMakeFiles/GitHub_Algorithmen_Datenstrukturen.dir/Exercise_2/Exercise_2_1/binaryTree.cpp.obj	a5920f71f1357244
